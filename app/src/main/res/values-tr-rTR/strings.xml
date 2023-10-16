@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keskin Viraj Tespit</string>
+    <string name="txt_startup">Başlangıç</string>
+    <string name="txt_finish">Bitiş</string>
+    <string name="txt_location_a">A Konumu</string>
+    <string name="txt_location_b">B Konumu</string>
+    <string name="txt_create_route">Rota Oluştur</string>
+    <string name="txt_start">Başlat</string>
+    <string name="txt_stop">Durdur</string>
+    <string name="txt_simulation">Simülasyon:</string>
+    <string name="unknown_error_message">Bilinmeyen hata</string>
+    <string name="remote_error_message">Uzak sunucu hatası</string>
+    <string name="network_error_message">Ağ hatası</string>
+</resources>
