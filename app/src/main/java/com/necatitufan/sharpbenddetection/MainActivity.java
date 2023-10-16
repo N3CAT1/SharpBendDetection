@@ -78,7 +78,7 @@ public class MainActivity extends Activity implements DrivingSession.DrivingRout
 {
     // API anahtarı
     // API key
-    private final String MAPKIT_API_KEY = "94063153-9bdf-49ea-869f-e6f60bd65357";
+    private final String MAPKIT_API_KEY = "YOUR_YANDEX_MAPKIT_API_KEY";
     // Rota başlangıç konumu (Uşak/Merkez)
     // Default route startup location (Uşak/Merkez, Türkiye)
     private Point ROUTE_START_LOCATION = new Point(38.674137, 29.405815);
