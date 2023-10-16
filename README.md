@@ -1,4 +1,4 @@
-# SharpBendDetection
+# SharpBendDetection / Keskin Viraj Tespit
 Ülkemizde artan nüfus ve artan taşıt sayısıyla beraber yıl içerisinde trafik kazaları artmaktadır. Bununla beraber ölüm, yaralanma ve sakat kalma gibi üzücü olaylar yaşanmaktadır. Trafik kazalarının gerçekleşmesinde sürücü, yolcu, yaya, yol ve taşıt faktörleri etkin olmaktadır. Her ne kadar son yıllarda yeni yapılan ve genişletilip yenilenen yollarla birlikte yol faktörünün etkisi azalmakta olsa da halen trafik kazalarında yol durumu ve şekli kazada bir etmendir. Yol faktörü içerisinde de arazinin engebeli olmasından ötürü bazı bölgelerde yollarda keskin virajlar bulunabilmektedir. Keskin virajlar da trafik kazalarının gerçekleşmesinden etkin bir faktördür.
 
 Günümüzde kullanılan navigasyon yazılımlarında rota üzerinde keskin virajlar gösterilmemektedir. Bu sebeple yolu bilmeyen sürücüler yoldaki keskin virajlarda trafik kazası geçirebilmekte ya da virajlarda sürüş zorluğu yaşamaktadırlar.
@@ -25,6 +25,7 @@ Koordinat sisteminde eğim hesaplama yöntemi ile rotanın belirli bir kısmın�
 **Adım-8:** Keskin viraj tespit edilmesi durumunda bu noktaya kırmızı yer işareti eklenmesi.
 
 Algoritmada **Adım-5**’deki noktaların döndürülmesi işlemleri için geometri kurallarından faydalanılmıştır. Örneğin belirlenen 3 nokta aşağıdaki gibi olsun:
+
 ![ornek_3_nokta.png](screenshots%2Fornek_3_nokta.png)
 
 * a, b ve c uzunluklarının dik üçgende Pisagor bağıntısına göre bulunması.
