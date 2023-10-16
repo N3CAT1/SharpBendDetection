@@ -67,10 +67,11 @@ As a result of the samples studied, it was observed that the slope value was hig
 
 ## App Screenshots
 
-![ss1.png](screenshots%2Fss1.png)
-![ss2.png](screenshots%2Fss2.png)
-![ss3.png](screenshots%2Fss3.png)
-![ss4.png](screenshots%2Fss4.png)
+<img src="screenshots/ss1.png" width="487" height="866"/>
+<img src="screenshots/ss2.png" width="487" height="866"/>
+<img src="screenshots/ss3.png" width="487" height="866"/>
+<img src="screenshots/ss4.png" width="487" height="866"/>
+
 
 
 ## Licence
