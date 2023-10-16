@@ -64,6 +64,14 @@ Algoritmada **Adım-5**’deki noktaların döndürülmesi işlemleri için geom
 ![ornek_yol_haritasi1.png](screenshots%2Fornek_yol_haritasi1.png)
 ![ornek_yol_haritasi2.png](screenshots%2Fornek_yol_haritasi2.png)
 
+## Uygulama Ekran Görüntüleri
+
+![ss1.png](screenshots%2Fss1.png)
+![ss2.png](screenshots%2Fss2.png)
+![ss3.png](screenshots%2Fss3.png)
+![ss4.png](screenshots%2Fss4.png)
+
+
 ## Lisans
     MIT License
     
