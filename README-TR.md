@@ -61,6 +61,7 @@ Algoritmada **Adım-5**’deki noktaların döndürülmesi işlemleri için geom
 **`m = (y2 - y1) / (x2 - x1)`**
 
 Çalışılan örnekler neticesinde eğim değerinin daha keskin dönüşlerde daha yüksek çıktığı görülmüştür. Bu değer de keskin virajın tespit edilmesinde önemli rol oynamaktadır. Örneğin aşağıdaki iki örnekte farklı eğim değerleri elde edilmiştir ve eğimi büyük olanın daha keskin bir dönüşe sahip olduğu görülmüştür.
+
 ![ornek_yol_haritasi1.png](screenshots%2Fornek_yol_haritasi1.png)
 ![ornek_yol_haritasi2.png](screenshots%2Fornek_yol_haritasi2.png)
 
